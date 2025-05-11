@@ -124,7 +124,7 @@ class Register extends React.Component {
                     style={{
                       border: 0,
                       background:
-                        "linear-gradient(90deg, #4683CA -3.21%, #AF93F2 100%)",
+                        "linear-gradient(90deg, #4683CA -3.21%, #FFFFFF 100%)",
                       borderRadius: "5px",
                     }}
                   >
